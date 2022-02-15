@@ -1,0 +1,1 @@
+# plugin-image-crmdynamics-dotnet
